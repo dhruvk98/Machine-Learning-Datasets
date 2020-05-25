@@ -1,5 +1,5 @@
-# Machine-Learning-Projects
-ML projects I've worked on in my free time to expand my knowledge.
+# Machine-Learning-Datasets
+ML Datasets I've played with in my free time to expand my knowledge.
 
 **Regression:**
 
