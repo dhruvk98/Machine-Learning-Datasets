@@ -5,6 +5,8 @@ ML projects I've worked on in my free time to expand my knowledge.
 
 - Boston Housing (Dataset in scikit-learn library)
 
+- Air Quality (https://archive.ics.uci.edu/ml//datasets/Air+quality)
+
 **Classification:**
 
 - Adult Income (https://www.kaggle.com/wenruliu/adult-income-dataset)
